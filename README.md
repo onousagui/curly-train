@@ -1,6 +1,5 @@
 # curly-train
 
 Hello
-
-this is my first edit.
+I don´t really know what I'm donig here
 
